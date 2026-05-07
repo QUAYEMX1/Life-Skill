@@ -2,11 +2,11 @@
 
 ## How to Learn Faster with the Feynman Technique
 1. What is the Feynman Technique?
-The Feynman Technique is a method of learning where you deeply understand a topic by explaining it in very simple language as if teaching it to someone else.
+* The Feynman Technique is a method of learning where you deeply understand a topic by explaining it in very simple language as if teaching it to someone else.
 
 ## Learning How to Learn TED talk by Barbara Oakley
 2. In this video, what was the most interesting story or idea for you?
-The most interesting idea for me was Barbara Oakley’s explanation of the two different ways the brain learns — focused mode and diffused mode. I found it surprising that when we stop concentrating and relax, the brain can still continue processing information in the background and help us solve problems more creatively.
+* The most interesting idea for me was Barbara Oakley’s explanation of the two different ways the brain learns — focused mode and diffused mode. I found it surprising that when we stop concentrating and relax, the brain can still continue processing information in the background and help us solve problems more creatively.
 3. What are active and diffused modes of thinking?
 * Focused (Active) Mode of Thinking:
 This mode happens when we pay close attention to a task and think deeply about it. It is used while solving problems, studying difficult concepts, or concentrating on coding and calculations.

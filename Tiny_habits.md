@@ -127,7 +127,4 @@ After dinner, I will study for 10 minutes and mark it on my tracker.
 - **Make it unattractive:** Remind yourself of wasted time
 - **Make it hard:** Log out or uninstall apps
 - **Make it unsatisfying:** Track daily screen time and reflect
-
-**Plan:**
-Keep phone in another room during study time and check usage stats daily.
 ---

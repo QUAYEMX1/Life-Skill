@@ -34,9 +34,6 @@ After brushing my teeth (Prompt), I will do 2 push-ups (Ability - easy), regardl
 
 Celebration is important because it creates a **positive emotional response** in your brain. This feeling reinforces the habit and helps your brain recognize it as something worth repeating.
 
-BJ Fogg emphasizes:
-> “Emotions create habits, not repetition.”
-
 So when you celebrate (even something small like saying “Good job!”), your brain releases dopamine, which strengthens the habit loop and makes you more likely to repeat the behavior.
 
 ---

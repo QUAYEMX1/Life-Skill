@@ -130,14 +130,4 @@ After dinner, I will study for 10 minutes and mark it on my tracker.
 
 **Plan:**
 Keep phone in another room during study time and check usage stats daily.
-
----
-
-# Conclusion
-
-Both Tiny Habits and Atomic Habits emphasize that:
-- Small actions create big results
-- Consistency is more important than intensity
-- Identity and emotions play a key role in habit formation
-
 ---

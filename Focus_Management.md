@@ -1,4 +1,4 @@
-# Focus Management & Deep Work
+# Focus Management
 
 ## 1. What is Deep Work?
 
